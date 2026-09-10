@@ -10,4 +10,5 @@ The intention of the project is to provide research, education, consultancy and 
 
 ## Current
 
-The project is in its very early stages at the moment. In the next few months we will start regular peer-support sessions for people working in this area. If you are interested in attending these, and/or in joining a private group chat with other practitioners, please email **info@appliedneurodiversity.org**. 
+The project is in its very early stages at the moment. In the next few months we will start regular peer-support sessions for people working in this area. If you are interested in attending these, and/or in joining a private group chat with other 
+practitioners, please email **info@appliedneurodiversity.org** with a breif description of what you're working on.
