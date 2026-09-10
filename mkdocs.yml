@@ -1,0 +1,6 @@
+site_name: Applied Neurodiversity Institute
+site_url: https://www.appliedneurodiversity.org
+theme:
+  name: material
+  features:
+    - navigation.tabs
